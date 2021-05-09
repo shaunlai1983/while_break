@@ -6,7 +6,7 @@ while True:
 		print('Enter mode 2')
 	elif mode == 'Q':
 		print('Quit the program now')
-		break
+		break             #執行到break就跳出迴圈
 	else :
 		print('錯誤!只能輸入1 , 2 , Q')
 
